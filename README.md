@@ -21,8 +21,8 @@ run program using jupyterlab
 A tool to help to find properties in the San Francisco market that are viable investment opportunities.
 
 *Montecarlo and Distribution graph, 500 simulations*
-![MC line graph- 500 SIM](https://github.com/MxP05/Challenge-5/blob/main/Images/5-4-monte-carlo-line-plot.png?raw=true)
-![Distribution graph final Cumulative return- 500 SIM](https://github.com/MxP05/Challenge-5/blob/main/Images/5-4-monte-carlo-histogram.png?raw=truee)
+![Hvplot mapp San francisco - Gross rent, Sales per sq foot](https://github.com/MxP05/Challenge-6/blob/main/Images/6-4-geoviews-plot.png?raw=true)
+![Sales price per square foot and average gross rent San Francisco 2010-2016](https://github.com/MxP05/Challenge-6/blob/main/Images/avg-sale-px-sq-foot-gross-rent.png?raw=true)
 ---
 
 ## Contributors
